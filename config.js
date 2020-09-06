@@ -5,7 +5,7 @@ const config = {
   
     "support": [],
 
-    "token": "Bot Token https://discordapp.com/developers/applications/me",
+    "token": "NzUxOTQxMzUwMDg1MzYxNzA0.X1QZ9A.lhUemfOY7lp319b09Qc4B6aUwmI",
 
     "fkeytoken": "Fortnite key token (Unused right now) https://fortnitetracker.com/site-api/create",
 
